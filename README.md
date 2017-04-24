@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-A single-page tich tac toe application built with React JS.
+A single-page Tic Tac Toe application built with React JS.
 
 ## Getting Started
 

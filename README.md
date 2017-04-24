@@ -20,7 +20,7 @@ git clone https://github.com/raman-chand/Tic-Tac-Toe.git
 cd Tic-Tac-Toe
 ```
 
-3. Install packages and Boot up your local enviornment
+3. Install packages and Boot up your local environment
 ```
 npm install
 

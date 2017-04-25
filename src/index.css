@@ -1,7 +1,12 @@
 body {
-  font: 24px "Roboto", sans-serif;
+  font: 18px "Roboto", sans-serif;
   font-weight: 400;
   margin: 20px;
+}
+
+#heading {
+  padding-bottom: 10px;
+  text-decoration: underline;
 }
 
 ol, ul {
@@ -22,15 +27,16 @@ ol, ul {
   background: #fff;
   border: 1px solid #999;
   float: left;
-  font-size: 24px;
+  font-size: 50px;
   font-weight: bold;
   line-height: 34px;
-  height: 34px;
-  margin-right: -1px;
+  height: 100px;
+  margin-right: auto;
+  margin-left: auto;
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 34px;
+  width: 100px;
 }
 
 .singleSquare:focus {
@@ -48,4 +54,12 @@ ol, ul {
 
 .gameInfo {
   margin-left: 20px;
+}
+
+#note {
+  font-size: 14px;
+  font-weight: lighter;
+}
+#note input {
+  margin-top: 20px;
 }

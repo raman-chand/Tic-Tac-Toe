@@ -11,7 +11,6 @@ function SingleSquare(props) {
   );
 }
 
-
 // Board Component
 class Board extends React.Component {
   // Initialize the State
